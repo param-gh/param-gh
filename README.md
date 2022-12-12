@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @param-gh
+- 👀 I’m interested in learning stuff about Computer Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Science projects
+- 📫 How to reach me: [pull requests to this repo](https://github.com/param-gh/param-gh/pulls)
